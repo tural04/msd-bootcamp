@@ -9,4 +9,4 @@ Software Engineering with AI
 3. To be able to use AI agents
 
 ## How to view
-open through file index.html
+Open `index.html` in a web browser.
